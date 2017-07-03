@@ -1,0 +1,10 @@
+Modes:
+-----
+	1. Normal mode
+		delete character -> x
+		exit without writing ->  :q or :q!
+
+
+	2. Insert mode
+		press ->  i
+		To back to normal mode -> esc 
